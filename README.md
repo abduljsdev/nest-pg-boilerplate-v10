@@ -87,6 +87,7 @@ Shared: Includes email handling and facilitates file uploads to Cloudinary.
 Cloudinary Integration: Effortlessly upload and manage files on the third-party service Cloudinary.
 Email Services: Utilizes Node Mailer and SendGrid for seamless email sending functionality.
 Encryption and Decryption: Utilizing the Node.js Crypto module for secure data handling.
+Role-Based Authentication: Allows different levels of access based on user roles.
 Seeder and Migration: Streamline database management.
 Swagger: Facilitates API exploration and testing.
 Forgot Password Flow: Ensures a seamless process for password recovery.
